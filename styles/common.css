@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.ChemicalList tr:nth-child(odd) {
+	background-color: #dff0ed;
+}
+.ChemicalList tr:nth-child(even) {
+	background-color: #fafafa;
+}
+
