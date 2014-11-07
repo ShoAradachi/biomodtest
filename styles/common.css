@@ -1,4 +1,18 @@
 @charset "UTF-8";
+
+/* ページ全体のスタイル */
+
+
+
+
+
+
+
+
+
+/* 文書の要素　*/
+
+
 .ChemicalList tr:nth-child(odd) {
 	background-color: #dff0ed;
 }
